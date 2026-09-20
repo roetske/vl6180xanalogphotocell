@@ -14,4 +14,6 @@ green led in set range,<br/>
 mini esp8266,<br/>
 oled 0,96 i2c.<br/>
 
+link testing youtube
 
+https://www.youtube.com/watch?v=UcYunKqP2fQ
